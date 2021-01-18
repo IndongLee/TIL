@@ -1,4 +1,0 @@
-[submodule "Android"]
-	path = Android
-	url = https://github.com/IndongLee/android-study.git
-	branch = master
