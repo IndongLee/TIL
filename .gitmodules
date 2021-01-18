@@ -1,0 +1,24 @@
+[submodule "Android"]
+	path = Android
+	url = https://github.com/IndongLee/android-study.git
+	branch = master
+[submodule "Kotlin/Kotlin-Basic"]
+	path = Kotlin/Kotlin-Basic
+	url = https://github.com/IndongLee/Kotlin-basic.git
+	branch = master
+[submodule "Programming/Design-Patterns"]
+	path = Programming/Design-Patterns
+	url = https://github.com/IndongLee/design-patterns.git
+	branch = master
+[submodule "Java/Effective-Java"]
+	path = Java/Effective-Java
+	url = https://github.com/dino-book/Effective-Java.git
+	branch = master
+[submodule "Programming/Objects"]
+	path = Programming/Objects
+	url = https://github.com/dino-book/Objects.git
+	branch = master
+[submodule "Algorithm"]
+	path = Algorithm
+	url = https://github.com/IndongLee/algorithm-problem.git
+	branch = master
