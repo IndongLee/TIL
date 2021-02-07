@@ -22,3 +22,7 @@
 	path = Algorithm
 	url = https://github.com/IndongLee/algorithm-problem.git
 	branch = master
+[submodule "Programming/The-Essence-Of-Object-Orientation"]
+	path = Programming/The-Essence-Of-Object-Orientation
+	url = https://github.com/dino-book/the-essence-of-object-orientation.git
+	branch = master
