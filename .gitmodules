@@ -26,3 +26,7 @@
 	path = Programming/The-Essence-Of-Object-Orientation
 	url = https://github.com/dino-book/the-essence-of-object-orientation.git
 	branch = master
+[submodule "Programming/Refactoring"]
+	path = Programming/Refactoring
+	url = https://github.com/dino-book/Refactoring.git
+	branch = master
